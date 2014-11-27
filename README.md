@@ -1,7 +1,6 @@
+#Verilog VGA ascii font generator 8 by 16 pixels.
 
-Verilog VGA ascii font generator 8 by 16 pixels.
+A simple raster VGA font generator by 2 blocks of memory.
 
-See demo.jpg
-
-Required: 2 memory block on spartan 3 or spartan 6
+![Demo font](/demo.jpg)
 
